@@ -32,7 +32,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 3 · 3s · AI cinematic reenactment
 **Script:** "gripping a spear taller than you are."
 
-**Video prompt:** 3-second clip. Close detail of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's young hands tightly gripping a tall wooden spear shaft. Motion: knuckles whiten as his grip tightens. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: heat shimmer ripples, faint wind lifts loose sand. Lighting: bright midday sun, hard shadows, heat shimmer. Mood: tense, nervous. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 3-second clip. Close detail of Arash's young hands tightly gripping a tall wooden spear shaft. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: knuckles whiten as his grip tightens. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: heat shimmer ripples, faint wind lifts loose sand. Lighting: bright midday sun, hard shadows, heat shimmer. Mood: tense, nervous. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** slow push-in, gentle handheld micro-movement
 - **Subject motion:** Knuckles whiten as his grip tightens
@@ -185,7 +185,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 20 · 4s · AI cinematic reenactment
 **Script:** "pressed a small bronze ring into his hand."
 
-**Video prompt:** 4-second clip. Close-up of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress's small hands pressing a small worn bronze ring into Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's open palm. Motion: her fingers fold his hand closed around the ring. Camera: very slow macro push-in with shifting focus. Ambient motion: subtle ambient movement, soft drifting dust. Lighting: soft early-morning golden light. Mood: tender, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 4-second clip. Close-up of his little sister's small hands pressing a small worn bronze ring into Arash's open palm. Arash's little sister is a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: her fingers fold his hand closed around the ring. Camera: very slow macro push-in with shifting focus. Ambient motion: subtle ambient movement, soft drifting dust. Lighting: soft early-morning golden light. Mood: tender, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** very slow macro push-in with shifting focus
 - **Subject motion:** Her fingers fold his hand closed around the ring
@@ -608,7 +608,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 67 · 3s · AI cinematic reenactment
 **Script:** "and a ring in his pocket."
 
-**Video prompt:** 3-second clip. Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's hand patting a small cloth pouch at his belt that holds a small worn bronze ring. Motion: he pats the pouch and smiles to himself. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: heat haze shimmers, fine sand drifts in the golden light. Lighting: golden-hour sunlight, long shadows, warm haze. Mood: tender, quiet. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 3-second clip. Close-up of Arash's hand patting a small cloth pouch at his belt that holds a small worn bronze ring. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: he pats the pouch and smiles to himself. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: heat haze shimmers, fine sand drifts in the golden light. Lighting: golden-hour sunlight, long shadows, warm haze. Mood: tender, quiet. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** slow push-in, gentle handheld micro-movement
 - **Subject motion:** He pats the pouch and smiles to himself
@@ -806,7 +806,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 89 · 4s · AI cinematic reenactment
 **Script:** "Arash turns his sister's ring over in his fingers"
 
-**Video prompt:** 4-second clip. Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's fingers turning a small worn bronze ring in the firelight. Motion: the ring glints as he rotates it slowly. Camera: very slow macro push-in with shifting focus. Ambient motion: flames flicker and sparks float upward. Lighting: warm firelight on faces, cold blue night around. Mood: tender, nostalgic. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 4-second clip. Close-up of Arash's fingers turning a small worn bronze ring in the firelight. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: the ring glints as he rotates it slowly. Camera: very slow macro push-in with shifting focus. Ambient motion: flames flicker and sparks float upward. Lighting: warm firelight on faces, cold blue night around. Mood: tender, nostalgic. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** very slow macro push-in with shifting focus
 - **Subject motion:** The ring glints as he rotates it slowly
@@ -815,7 +815,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 90 · 2s · AI cinematic reenactment
 **Script:** "and thinks about home."
 
-**Video prompt:** 2-second clip. Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's face in firelight, eyes glistening, with a soft dreamy memory of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress waving from a village doorway. Motion: a faint smile, then a tear he wipes away. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: flames flicker and sparks float upward. Lighting: warm firelight on faces, cold blue night around. Mood: homesick, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 2-second clip. Arash's face in firelight, eyes glistening, with a soft dreamy memory of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress waving from a village doorway. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: a faint smile, then a tear he wipes away. Camera: slow push-in, gentle handheld micro-movement. Ambient motion: flames flicker and sparks float upward. Lighting: warm firelight on faces, cold blue night around. Mood: homesick, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** slow push-in, gentle handheld micro-movement
 - **Subject motion:** A faint smile, then a tear he wipes away
@@ -977,7 +977,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 108 · 4s · AI cinematic reenactment
 **Script:** "He looks up, and the horizon is moving."
 
-**Video prompt:** 4-second clip. Over Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's shoulder, the entire horizon rising as a rolling wall of dust. Motion: he slowly stands up, eyes wide. Camera: slow cinematic dolly-in. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: terrifying, awe. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 4-second clip. Over Arash's shoulder, the entire horizon rising as a rolling wall of dust. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: he slowly stands up, eyes wide. Camera: slow cinematic dolly-in. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: terrifying, awe. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** slow cinematic dolly-in
 - **Subject motion:** He slowly stands up, eyes wide
@@ -1013,7 +1013,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 112 · 4s · AI cinematic reenactment
 **Script:** "Sand fills his eyes, his nose, his mouth."
 
-**Video prompt:** 4-second clip. Extreme close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's face pressed into his head-wrap, eyes shut against stinging sand. Motion: he coughs and chokes. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: suffocating, desperate. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 4-second clip. Extreme close-up of Arash's face pressed into his head-wrap, eyes shut against stinging sand. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: he coughs and chokes. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: suffocating, desperate. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** very slow macro push-in with shifting focus
 - **Subject motion:** He coughs and chokes
@@ -1040,7 +1040,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 115 · 4s · AI cinematic reenactment
 **Script:** "And he squeezes that little ring so tightly"
 
-**Video prompt:** 4-second clip. Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's fist clenched around a small worn bronze ring, sand blasting across his knuckles. Motion: his fist tightens, trembling. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: desperate, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 4-second clip. Close-up of Arash's fist clenched around a small worn bronze ring, sand blasting across his knuckles. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: his fist tightens, trembling. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: desperate, emotional. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** very slow macro push-in with shifting focus
 - **Subject motion:** His fist tightens, trembling
@@ -1049,7 +1049,7 @@ One clip per image prompt (same beat numbers as cambyses_image_prompts.md). Use 
 ### Beat 116 · 3s · AI cinematic reenactment
 **Script:** "it cuts into his palm."
 
-**Video prompt:** 3-second clip. Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's open palm with a red mark pressed by a small worn bronze ring, sand swirling around it. Motion: his hand closes again around the ring. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: heartbreaking, intimate. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
+**Video prompt:** 3-second clip. Arash's open palm with a red mark pressed by a small worn bronze ring, sand swirling around it. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Motion: his hand closes again around the ring. Camera: very slow macro push-in with shifting focus. Ambient motion: sand and dust whip violently across the frame, light pulses dim and bright. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: heartbreaking, intimate. Style: semi-photorealistic cinematic AI video, glossy documentary look, warm amber and gold palette, film-like motion blur. No text, no cuts, 16:9.
 
 - **Camera motion:** very slow macro push-in with shifting focus
 - **Subject motion:** His hand closes again around the ring

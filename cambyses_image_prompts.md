@@ -34,7 +34,7 @@
 ### Beat 3
 **Script:** "gripping a spear taller than you are."
 
-**Image prompt (AI cinematic reenactment):** Close detail of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's young hands tightly gripping a tall wooden spear shaft. Knuckles whiten as his grip tightens. Close-up, low angle up the spear. Lighting: bright midday sun, hard shadows, heat shimmer. Mood: tense, nervous. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Close detail of Arash's young hands tightly gripping a tall wooden spear shaft. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Knuckles whiten as his grip tightens. Close-up, low angle up the spear. Lighting: bright midday sun, hard shadows, heat shimmer. Mood: tense, nervous. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Close-up, low angle up the spear
 - **Lighting:** bright midday sun, hard shadows, heat shimmer
@@ -204,7 +204,7 @@
 ### Beat 20
 **Script:** "pressed a small bronze ring into his hand."
 
-**Image prompt (AI cinematic reenactment):** Close-up of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress's small hands pressing a small worn bronze ring into Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's open palm. Her fingers fold his hand closed around the ring. Extreme close-up. Lighting: soft early-morning golden light. Mood: tender, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Close-up of his little sister's small hands pressing a small worn bronze ring into Arash's open palm. Arash's little sister is a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. Her fingers fold his hand closed around the ring. Extreme close-up. Lighting: soft early-morning golden light. Mood: tender, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Extreme close-up
 - **Lighting:** soft early-morning golden light
@@ -674,7 +674,7 @@
 ### Beat 67
 **Script:** "and a ring in his pocket."
 
-**Image prompt (AI cinematic reenactment):** Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's hand patting a small cloth pouch at his belt that holds a small worn bronze ring. He pats the pouch and smiles to himself. Close-up. Lighting: golden-hour sunlight, long shadows, warm haze. Mood: tender, quiet. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Close-up of Arash's hand patting a small cloth pouch at his belt that holds a small worn bronze ring. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. He pats the pouch and smiles to himself. Close-up. Lighting: golden-hour sunlight, long shadows, warm haze. Mood: tender, quiet. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Close-up
 - **Lighting:** golden-hour sunlight, long shadows, warm haze
@@ -894,7 +894,7 @@
 ### Beat 89
 **Script:** "Arash turns his sister's ring over in his fingers"
 
-**Image prompt (AI cinematic reenactment):** Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's fingers turning a small worn bronze ring in the firelight. The ring glints as he rotates it slowly. Extreme close-up. Lighting: warm firelight on faces, cold blue night around. Mood: tender, nostalgic. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Close-up of Arash's fingers turning a small worn bronze ring in the firelight. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. The ring glints as he rotates it slowly. Extreme close-up. Lighting: warm firelight on faces, cold blue night around. Mood: tender, nostalgic. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Extreme close-up
 - **Lighting:** warm firelight on faces, cold blue night around
@@ -904,7 +904,7 @@
 ### Beat 90
 **Script:** "and thinks about home."
 
-**Image prompt (AI cinematic reenactment):** Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's face in firelight, eyes glistening, with a soft dreamy memory of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress waving from a village doorway. A faint smile, then a tear he wipes away. Close-up with soft memory overlay. Lighting: warm firelight on faces, cold blue night around. Mood: homesick, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Arash's face in firelight, eyes glistening, with a soft dreamy memory of Arash's little sister, a 10-year-old Persian girl with long dark braided hair in a simple blue linen dress waving from a village doorway. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. A faint smile, then a tear he wipes away. Close-up with soft memory overlay. Lighting: warm firelight on faces, cold blue night around. Mood: homesick, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Close-up with soft memory overlay
 - **Lighting:** warm firelight on faces, cold blue night around
@@ -1084,7 +1084,7 @@
 ### Beat 108
 **Script:** "He looks up, and the horizon is moving."
 
-**Image prompt (AI cinematic reenactment):** Over Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's shoulder, the entire horizon rising as a rolling wall of dust. He slowly stands up, eyes wide. Over-the-shoulder wide shot. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: terrifying, awe. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Over Arash's shoulder, the entire horizon rising as a rolling wall of dust. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. He slowly stands up, eyes wide. Over-the-shoulder wide shot. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: terrifying, awe. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Over-the-shoulder wide shot
 - **Lighting:** dim brownish-orange storm light, sun blotted out, airborne dust
@@ -1124,7 +1124,7 @@
 ### Beat 112
 **Script:** "Sand fills his eyes, his nose, his mouth."
 
-**Image prompt (AI cinematic reenactment):** Extreme close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's face pressed into his head-wrap, eyes shut against stinging sand. He coughs and chokes. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: suffocating, desperate. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Extreme close-up of Arash's face pressed into his head-wrap, eyes shut against stinging sand. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. He coughs and chokes. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: suffocating, desperate. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Extreme close-up
 - **Lighting:** dim brownish-orange storm light, sun blotted out, airborne dust
@@ -1154,7 +1154,7 @@
 ### Beat 115
 **Script:** "And he squeezes that little ring so tightly"
 
-**Image prompt (AI cinematic reenactment):** Close-up of Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's fist clenched around a small worn bronze ring, sand blasting across his knuckles. His fist tightens, trembling. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: desperate, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Close-up of Arash's fist clenched around a small worn bronze ring, sand blasting across his knuckles. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. His fist tightens, trembling. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: desperate, emotional. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Extreme close-up
 - **Lighting:** dim brownish-orange storm light, sun blotted out, airborne dust
@@ -1164,7 +1164,7 @@
 ### Beat 116
 **Script:** "it cuts into his palm."
 
-**Image prompt (AI cinematic reenactment):** Arash, a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap's open palm with a red mark pressed by a small worn bronze ring, sand swirling around it. His hand closes again around the ring. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: heartbreaking, intimate. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
+**Image prompt (AI cinematic reenactment):** Arash's open palm with a red mark pressed by a small worn bronze ring, sand swirling around it. Arash is a 19-year-old Persian soldier with short dark curly hair, light stubble and warm brown eyes, wearing a sand-colored belted tunic, trousers and a cloth head-wrap. His hand closes again around the ring. Extreme close-up. Lighting: dim brownish-orange storm light, sun blotted out, airborne dust. Mood: heartbreaking, intimate. Visual style: semi-photorealistic cinematic AI render, glossy documentary style, warm amber and gold palette, dramatic torchlight or golden-hour lighting, haze and dust particles, shallow depth of field, 16:9.
 
 - **Camera angle:** Extreme close-up
 - **Lighting:** dim brownish-orange storm light, sun blotted out, airborne dust
