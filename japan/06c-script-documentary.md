@@ -1,6 +1,6 @@
 # Why Did Japan Get Rich With No Oil, No Land and No Resources? (Documentary Version)
 
-**Target:** 1,925 words (±5%) · **Final:** 1,908 words · ~10:40 at 2.98 wps
+**Target:** 1,925 words (±5%) · **Final:** 1,911 words · ~10:41 at 2.98 wps
 
 At the end of the Second World War, Japan had lost an empire, about three million of its people and roughly a quarter of everything the country owned.
 
@@ -164,7 +164,7 @@ By one estimate, five years after the war the average Japanese produced about a 
 
 But there's a sixth shock in this story, and Japan caused this one itself.
 
-Then an international deal called the Plaza Accord pushed the yen sharply higher. To cushion the blow, Japan cut interest rates, and cheap money poured into stocks and land.
+It started with an international deal called the Plaza Accord, which pushed the yen sharply higher. To cushion the blow, Japan cut interest rates, and cheap money poured into stocks and land.
 
 With so little flat ground, property prices exploded. By the end of the decade, most of the world's ten biggest banks were Japanese. At the peak, the land under the Imperial Palace in Tokyo was said to be worth more than all the real estate in California.
 
