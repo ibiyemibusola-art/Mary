@@ -1,6 +1,6 @@
 # Why Did Japan Get Rich With No Oil, No Land and No Resources? (Story Version)
 
-**Target:** 1,925 words (±5%) · **Final:** 1,864 words · ~10:26 at 2.98 wps
+**Target:** 1,925 words (±5%) · **Final:** 1,863 words · ~10:25 at 2.98 wps
 
 If you pull a five-thousand-yen note out of a wallet in Japan today, there's a woman on it.
 
