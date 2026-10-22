@@ -1,9 +1,11 @@
 # The Hollow Files — Gracie Spinks — Thumbnail + Description
 
 ## YouTube title
-**They Found His Weapons Bag Near Her Stables… and Filed It as LOST PROPERTY**
+**WARNING: This Story Will Make You Angry… Police Had Her Stalker's Weapons Bag | True Crime Documentary**
 
-Backup: *She Reported Her Stalker. Police Graded It LOW RISK. | The Gracie Spinks Case*
+Backups:
+- *CAUTION!!! She Reported Him. Police Said "Low Risk." | True Crime Documentary*
+- *They Filed His Bag of Weapons as Lost Property… Six Weeks Later She Was Dead | True Crime Documentary*
 
 ---
 
@@ -26,13 +28,13 @@ top-down photograph of an open dark-green rucksack on a dark brushed steel evide
 ## Description
 
 ```
-In February 2021, 23-year-old Gracie Spinks reported a man for stalking her. She gave police his name and told them he had been turning up at the stables where she kept her horse. The case was graded low risk.
+Gracie Spinks was 23 when she reported her former supervisor to Derbyshire Police for stalking. The case was graded low risk. Three months later, a bag of knives, an axe and a note reading "Don't lie" was found near the stables where she kept her horse, and it was logged as lost property. Six weeks after that, she was dead.
 
-Three months later, a bag of knives, an axe, a hammer and a note reading "Don't lie" was found on a bridle path near those same stables. It was logged as lost property.
+SUBSCRIBE and turn on notifications so Gracie's story reaches someone who has never heard her name.
 
-Six weeks later, Gracie was dead.
+This video follows Gracie's stalking report in February 2021, the rucksack found on the bridle path in May, the receipt inside it that nobody examined, and the morning of 18 June 2021 at Blue Lodge Farm. It then covers the police watchdog investigation, the inquest, and her family's campaign for Gracie's Law.
 
-This is the story of Gracie Spinks, the warning signs nobody connected, and her family's fight for change through Gracie's Law.
+If you believe stories like this deserve to be heard all the way through, subscribe and like the video, and tell us in the comments which country you are watching from.
 
 ⏱️ CHAPTERS
 0:00 Intro
@@ -49,27 +51,15 @@ This is the story of Gracie Spinks, the warning signs nobody connected, and her 
 11:01 What Gracie Did
 11:27 Closing the File
 
-📂 SOURCES
-This video is based on public reporting of the inquest (November 2023), the Independent Office for Police Conduct (IOPC) findings, and the coroner's Prevention of Future Deaths report. Details are presented as reported in those sources.
-
-🕊️ IN MEMORY
-Gracie Spinks, 23. Lifeguard, horse lover, and a young woman who asked for help.
-
-💬 Should police systems automatically flag anything found near places a stalking victim has named? Tell us in the comments, along with where you're watching from.
-
 🆘 IF YOU NEED SUPPORT (UK)
 National Stalking Helpline (Suzy Lamplugh Trust): 0808 802 0300
-Paladin National Stalking Advocacy Service: paladinservice.co.uk
 National Domestic Abuse Helpline (Refuge): 0808 2000 247
 Samaritans (24/7): 116 123
 In an emergency, always call 999.
-Outside the UK, please contact your local emergency number or support services.
 
-🔔 Subscribe to The Hollow Files for carefully researched true-crime documentaries.
+📂 Based on public reporting of the November 2023 inquest, the IOPC findings and the coroner's Prevention of Future Deaths report. Photo: family handout via news media. Reconstructions are illustrative.
 
-#TrueCrime #GracieSpinks #TrueCrimeDocumentary #Stalking #UKTrueCrime #TheHollowFiles
-
-⚠️ This video discusses stalking and a real death. Viewer discretion is advised. No graphic content is shown. Reconstructions are illustrative and do not depict the real people involved.
+#TrueCrime #GracieSpinks #TrueCrimeDocumentary #UKTrueCrime #TheHollowFiles
 ```
 
 ---
