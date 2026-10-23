@@ -48,10 +48,6 @@ He travelled to Gateshead late at night and knocked on her door. On another occa
 
 Think about what that means. He knew which window was hers.
 
-Gifts can look harmless on their own. But a gift left at a bedroom window, at night, by a man you have told to leave you alone, is not a gift. It is a message.
-
-It says: I know where you sleep.
-
 Alice recognised that something was wrong.
 
 At 12:40 in the morning on 1 October 2016, she called the police on the non-emergency number, 101.
@@ -94,13 +90,11 @@ Her best friend Maxine found her in the flat and called 999.
 
 Dhillon was arrested soon afterwards.
 
-At first, he did not deny being there. Instead, he told a different story. He claimed that Alice had attacked him with a carving knife, and that she had been injured accidentally while he tried to disarm her.
+He claimed that Alice had attacked him with a carving knife, and that she had been injured accidentally while he tried to disarm her.
 
 It was a story that placed the blame on the woman he had stalked.
 
 In April 2017, Trimaan Dhillon went on trial at Newcastle Crown Court.
-
-The jury heard about the visits, the gifts on the window sill, the messages, and the warning he had ignored. They heard Alice's flatmate describe how frightened Alice had been, and how let down she felt.
 
 On 26 April 2017, the jury found Dhillon guilty of murder.
 
@@ -108,19 +102,7 @@ Judge Paul Sloan QC described the killing as an act of "utter barbarism."
 
 He told Dhillon: "Not a shred of remorse have you shown from first to last."
 
-And he noted that Dhillon had been so focused on getting his story right, he had forgotten even to shed a crocodile tear.
-
 Dhillon was sentenced to life imprisonment, with a minimum term of 22 years. In 2018, the Court of Appeal refused his attempt to have that sentence reduced.
-
-But Alice's parents had questions that a criminal trial could not answer.
-
-Why had their daughter's first call been handled the way it was?
-
-Why had key details she gave not been recorded?
-
-Why was the warning delivered through the army, instead of by a police officer?
-
-And why was her second report not connected to the first?
 
 The Independent Office for Police Conduct, the IOPC, investigated Northumbria Police's handling of Alice's reports.
 
@@ -143,14 +125,6 @@ In 2021, threatening to share intimate images did become a crime in England and 
 Alice's parents did not stop there.
 
 Clive Ruggles and Sue Hills set up the Alice Ruggles Trust, a charity that works to raise awareness of stalking and coercive control, to provide education and training, and to support research.
-
-Since then, they have spoken to police forces, schools and policymakers across the country. They have told Alice's story again and again, so that other people learn to recognise the signs she faced.
-
-Because stalking is rarely a single moment.
-
-It is flowers left on a window sill. A knock at the door at night. A message that says, I was outside. A threat to share private photographs. A warning that gets ignored.
-
-Each one can be explained away on its own. Together, they form a pattern.
 
 Look back at what Alice did.
 
@@ -175,8 +149,6 @@ Nobody can say for certain that doing things differently would have saved Alice.
 So, before we close the file, consider this.
 
 Should a police warning for harassment always be delivered in person, especially when the person being warned lives more than a hundred miles away and works inside another institution?
-
-Or should repeat reports about the same person be flagged automatically, so no victim ever has to start from the beginning again?
 
 Tell me what you think in the comments, and tell me which country you are watching from. And subscribe to The Hollow Files so the next story reaches the people who need to hear it.
 
