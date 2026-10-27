@@ -1,9 +1,9 @@
 # STATE 9 — Video Prompts
 
 **Video:** If Communism Failed… Why Did China Get Rich?  
-**Clips:** 207 (one per image prompt; duration = segment words ÷ 2.98 wps, min 2 s, max 5 s)  
+**Clips:** 207 (one per image prompt; duration = segment words ÷ 2.98 wps exactly, no padding)  
 **Use:** feed each Beat's image as the start frame, then this prompt.
-**Total runtime:** 10:57  
+**Total runtime:** 10:39  
 
 ## Clip 001
 
@@ -93,9 +93,9 @@
 
 **[Script Segment]** "So here's the puzzle."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a large glossy yellow 3D question mark popping up beside it, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the question mark bouncing in, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: intriguing, playful. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a large glossy yellow 3D question mark popping up beside it, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the question mark bouncing in, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: intriguing, playful. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the question mark bouncing in
 
@@ -489,9 +489,9 @@
 
 **[Script Segment]** "Experiment number one: the farm."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with the first experiment badge (a rice sheaf) glowing yellow, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the first badge lighting up, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: chapter-opening, hopeful. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with the first experiment badge (a rice sheaf) glowing yellow, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the first badge lighting up, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: chapter-opening, hopeful. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the first badge lighting up
 
@@ -609,9 +609,9 @@
 
 **[Script Segment]** "At the same time,"
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a 3D grain price tag beside the country, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the price tag sliding in, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: building, clear. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a 3D grain price tag beside the country, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the price tag sliding in, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: building, clear. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the price tag sliding in
 
@@ -669,9 +669,9 @@
 
 **[Script Segment]** "making bricks, clothes and tools."
 
-**Video Prompt:** Start frame: low oblique view of small 3D rural workshops on a shaded-relief map of China, turning out tiny bricks, folded clothes and tools onto carts, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: products rolling out onto carts, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: industrious, busy. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: low oblique view of small 3D rural workshops on a shaded-relief map of China, turning out tiny bricks, folded clothes and tools onto carts, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: products rolling out onto carts, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: industrious, busy. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain
 - **Main Motion:** products rolling out onto carts
 
@@ -693,9 +693,9 @@
 
 **[Script Segment]** "Nobody had privatized anything."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a crossed-out 'FOR SALE' sign hovering over the farmland, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the sign getting crossed out, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: clear, matter-of-fact. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a crossed-out 'FOR SALE' sign hovering over the farmland, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the sign getting crossed out, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: clear, matter-of-fact. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the sign getting crossed out
 
@@ -777,9 +777,9 @@
 
 **[Script Segment]** "Experiment number two: the zones."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the second experiment badge (a fenced zone) glowing yellow, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the second badge lighting up, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: chapter-opening, energetic. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the second experiment badge (a fenced zone) glowing yellow, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the second badge lighting up, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: chapter-opening, energetic. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the second badge lighting up
 
@@ -789,9 +789,9 @@
 
 **[Script Segment]** "Now look at the map."
 
-**Video Prompt:** Start frame: shaded-relief map of East Asia, with the camera zooming toward the southern coast of China, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the camera diving toward the south coast, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: focused, energetic. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of East Asia, with the camera zooming toward the southern coast of China, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the camera diving toward the south coast, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: focused, energetic. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow lateral drift across the map with a slight zoom toward the subject
 - **Main Motion:** the camera diving toward the south coast
 
@@ -849,9 +849,9 @@
 
 **[Script Segment]** "Shenzhen, Zhuhai, Shantou and Xiamen."
 
-**Video Prompt:** Start frame: shaded-relief map of southern and eastern China, with four red pins labeled 'SHENZHEN', 'ZHUHAI', 'SHANTOU' and 'XIAMEN' on the glowing zones, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the pins dropping in sequence, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: clear, informative. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of southern and eastern China, with four red pins labeled 'SHENZHEN', 'ZHUHAI', 'SHANTOU' and 'XIAMEN' on the glowing zones, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the pins dropping in sequence, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: clear, informative. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the pins dropping in sequence
 
@@ -885,9 +885,9 @@
 
 **[Script Segment]** "and export what they made."
 
-**Video Prompt:** Start frame: low oblique view of a Special Economic Zone port, with crates rolling out of factories onto container ships, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: crates loading onto ships, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: energetic, booming. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: low oblique view of a Special Economic Zone port, with crates rolling out of factories onto container ships, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: crates loading onto ships, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: energetic, booming. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain
 - **Main Motion:** crates loading onto ships
 
@@ -897,9 +897,9 @@
 
 **[Script Segment]** "Shenzhen was the big one."
 
-**Video Prompt:** Start frame: oblique view of the Pearl River Delta, with the Shenzhen zone glowing brighter and bigger than the other three, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: Shenzhen glowing brighter, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: focused, clear. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: oblique view of the Pearl River Delta, with the Shenzhen zone glowing brighter and bigger than the other three, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: Shenzhen glowing brighter, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: focused, clear. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief
 - **Main Motion:** Shenzhen glowing brighter
 
@@ -921,9 +921,9 @@
 
 **[Script Segment]** "In 1980,"
 
-**Video Prompt:** Start frame: vintage sepia parchment map of the Shenzhen area, with a '1980' tag, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the tag popping in, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: historical, quiet. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: vintage sepia parchment map of the Shenzhen area, with a '1980' tag, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the tag popping in, timed to land by 0.5 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: historical, quiet. Duration: 0.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 0.7 s
 - **Camera Move:** slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief
 - **Main Motion:** the tag popping in
 
@@ -981,9 +981,9 @@
 
 **[Script Segment]** "People called it Shenzhen speed."
 
-**Video Prompt:** Start frame: low oblique view of the Shenzhen tower with motion lines and a yellow label tag reading 'SHENZHEN SPEED', in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the label tag popping in, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: energetic, proud. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: low oblique view of the Shenzhen tower with motion lines and a yellow label tag reading 'SHENZHEN SPEED', in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the label tag popping in, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: energetic, proud. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain
 - **Main Motion:** the label tag popping in
 
@@ -1041,9 +1041,9 @@
 
 **[Script Segment]** "Notice the pattern."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a dotted highlight circling the coastline, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the dotted highlight tracing the coast, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: observant, clear. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a dotted highlight circling the coastline, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the dotted highlight tracing the coast, timed to land by 0.7 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: observant, clear. Duration: 1.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.0 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the dotted highlight tracing the coast
 
@@ -1125,9 +1125,9 @@
 
 **[Script Segment]** "Reform wasn't a straight line."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a 3D reform line chart that zigzags up and down instead of rising straight, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the zigzag line drawing itself, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: honest, tense. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a 3D reform line chart that zigzags up and down instead of rising straight, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the zigzag line drawing itself, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: honest, tense. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the zigzag line drawing itself
 
@@ -1173,9 +1173,9 @@
 
 **[Script Segment]** "Then, in 1992, Deng,"
 
-**Video Prompt:** Start frame: shaded-relief map of southern China, with a '1992' tag and a dotted travel route drawing south from Beijing to the coast, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the route drawing southward, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: turning point, hopeful. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of southern China, with a '1992' tag and a dotted travel route drawing south from Beijing to the coast, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the route drawing southward, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: turning point, hopeful. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the route drawing southward
 
@@ -1221,9 +1221,9 @@
 
 **[Script Segment]** "Money flooded in."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief world map, with streams of gold coins flowing into China's coast from every direction, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: coins flooding in, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: booming, energetic. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief world map, with streams of gold coins flowing into China's coast from every direction, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: coins flooding in, timed to land by 0.7 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: booming, energetic. Duration: 1.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.0 s
 - **Camera Move:** slow lateral drift across the map with a slight zoom toward the subject
 - **Main Motion:** coins flooding in
 
@@ -1269,9 +1269,9 @@
 
 **[Script Segment]** "bringing machines, designs and know-how."
 
-**Video Prompt:** Start frame: low oblique view of a coastal Chinese factory, with 3D machines, blueprints and gear icons being unloaded, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: blueprints rolling into the factory, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: industrious, clever. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: low oblique view of a coastal Chinese factory, with 3D machines, blueprints and gear icons being unloaded, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: blueprints rolling into the factory, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: industrious, clever. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow forward dolly at a low 25-degree oblique tilt with gentle parallax between props and terrain
 - **Main Motion:** blueprints rolling into the factory
 
@@ -1341,9 +1341,9 @@
 
 **[Script Segment]** "The ports grew with it."
 
-**Video Prompt:** Start frame: oblique view of the Yangtze River delta, with endless 3D container ships streaming in and out of Shanghai, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: ships streaming in and out, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: busy, impressive. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: oblique view of the Yangtze River delta, with endless 3D container ships streaming in and out of Shanghai, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: ships streaming in and out, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: busy, impressive. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow push-in at a 20-degree oblique tilt with subtle parallax on the terrain relief
 - **Main Motion:** ships streaming in and out
 
@@ -1485,9 +1485,9 @@
 
 **[Script Segment]** "were hit hardest."
 
-**Video Prompt:** Start frame: shaded-relief map of northeast China, with a broken 3D trophy labeled with a planned-economy icon lying among cold factory chimneys, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the trophy cracking, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: melancholy, declining. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of northeast China, with a broken 3D trophy labeled with a planned-economy icon lying among cold factory chimneys, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the trophy cracking, timed to land by 0.7 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: melancholy, declining. Duration: 1.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.0 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the trophy cracking
 
@@ -1629,9 +1629,9 @@
 
 **[Script Segment]** "By one widely cited estimate,"
 
-**Video Prompt:** Start frame: split shaded-relief map of China and the United States, with a 3D cement mixer on each side, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the mixers starting to turn, timed to land by 1.4 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: intriguing, playful. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: split shaded-relief map of China and the United States, with a 3D cement mixer on each side, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the mixers starting to turn, timed to land by 1.2 s and settle for the rest of the clip. Camera: slow lateral drift across the map with a slight zoom toward the subject. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: intriguing, playful. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** slow lateral drift across the map with a slight zoom toward the subject
 - **Main Motion:** the mixers starting to turn
 
@@ -1713,9 +1713,9 @@
 
 **[Script Segment]** "Trade-off number one: inequality."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the first trade-off badge (a broken scale) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the first trade-off badge (a broken scale) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the badge pulsing red
 
@@ -1821,9 +1821,9 @@
 
 **[Script Segment]** "Trade-off number two: debt."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the second trade-off badge (a stack of IOUs) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the second trade-off badge (a stack of IOUs) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the badge pulsing red
 
@@ -1881,9 +1881,9 @@
 
 **[Script Segment]** "Others didn't. In Inner Mongolia,"
 
-**Video Prompt:** Start frame: shaded-relief map of northern China, with Inner Mongolia highlighted and a red pin labeled 'KANGBASHI', in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the pin dropping, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: curious, uneasy. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of northern China, with Inner Mongolia highlighted and a red pin labeled 'KANGBASHI', in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the pin dropping, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: curious, uneasy. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the pin dropping
 
@@ -1917,9 +1917,9 @@
 
 **[Script Segment]** "By most estimates,"
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a huge 3D debt stack rising beside the country, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the debt stack rising, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: tense, alarming. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a huge 3D debt stack rising beside the country, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the debt stack rising, timed to land by 0.7 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: tense, alarming. Duration: 1.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.0 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the debt stack rising
 
@@ -1941,9 +1941,9 @@
 
 **[Script Segment]** "Trade-off number three: property."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the third trade-off badge (a cracked house) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the third trade-off badge (a cracked house) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the badge pulsing red
 
@@ -2073,9 +2073,9 @@
 
 **[Script Segment]** "Trade-off number four: people."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the fourth trade-off badge (a cradle) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with the fourth trade-off badge (a cradle) glowing red-orange, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the badge pulsing red, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: dark smoke drifts slowly, ember-orange glows flicker, a faint camera shake on impact moments. Mood: chapter-opening, serious. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the badge pulsing red
 
@@ -2241,9 +2241,9 @@
 
 **[Script Segment]** "So, the scorecard."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with a cream parchment scorecard panel sliding in from the left, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the scorecard sliding in, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: conclusive, clear. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with a cream parchment scorecard panel sliding in from the left, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the scorecard sliding in, timed to land by 0.7 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: conclusive, clear. Duration: 1.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.0 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the scorecard sliding in
 
@@ -2277,9 +2277,9 @@
 
 **[Script Segment]** "Resources: not oil or gold."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with a 'RESOURCES' card showing crossed-out oil and gold icons, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the icons getting crossed out, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: clear, surprising. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with a 'RESOURCES' card showing crossed-out oil and gold icons, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the icons getting crossed out, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: clear, surprising. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the icons getting crossed out
 
@@ -2337,9 +2337,9 @@
 
 **[Script Segment]** "Markets for prices and profits."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with the 'DECISIONS' card adding a market price-tag icon, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the price tag popping in, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: clear, conclusive. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a vintage sepia parchment map, with the 'DECISIONS' card adding a market price-tag icon, in Vintage map mode (aged sepia parchment, taupe seas, chocolate-brown land). Main motion: the price tag popping in, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: parchment surface stays still, faint dust motes drift in the lamplight, glowing highlights pulse softly. Mood: clear, conclusive. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the price tag popping in
 
@@ -2361,9 +2361,9 @@
 
 **[Script Segment]** "That control made China fast."
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a glossy 3D speedometer beside it swinging to maximum, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the needle swinging to max, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: powerful, fast. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a glossy 3D speedometer beside it swinging to maximum, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the needle swinging to max, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: powerful, fast. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the needle swinging to max
 
@@ -2385,9 +2385,9 @@
 
 **[Script Segment]** "So, did communism fail?"
 
-**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a large glossy yellow 3D question mark beside a red star badge, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the question mark spinning, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: reflective, climactic. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: mainland China with its long eastern coastline and the Yellow and Yangtze rivers on a shaded-relief map, with a large glossy yellow 3D question mark beside a red star badge, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the question mark spinning, timed to land by 0.9 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: reflective, climactic. Duration: 1.3 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.3 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the question mark spinning
 
@@ -2481,9 +2481,9 @@
 
 **[Script Segment]** "That one is right here."
 
-**Video Prompt:** Start frame: shaded-relief map of India glowing yellow, with a glossy 3D arrow pointing to it and a small gold globe-coin emblem, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the arrow pulsing, timed to land by 1.4 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: inviting, open. Duration: 2.0 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
+**Video Prompt:** Start frame: shaded-relief map of India glowing yellow, with a glossy 3D arrow pointing to it and a small gold globe-coin emblem, in Physical map mode (cerulean ocean, green lowlands, ochre highlands, rust-brown ridges). Main motion: the arrow pulsing, timed to land by 1.2 s and settle for the rest of the clip. Camera: gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation. Ambient motion: puffy 3D clouds drift slowly, ocean surface shimmers subtly, glowing highlights pulse softly. Mood: inviting, open. Duration: 1.7 s. Style: Fortune Map 2.5D animated map explainer; terrain stays locked and stable, 3D toy-like props move with springy, bouncy ease-in-out animation and soft drop shadows; bold white uppercase labels, year tags and yellow-gold 3D numbers pop in with a quick scale-bounce; people only as small 3D toy figures with no real likenesses; no coastline morphing, no extra text, no flicker, four corners kept clear for UI, 16:9, 24 fps.
 
-- **Duration:** 2.0 s
+- **Duration:** 1.7 s
 - **Camera Move:** gentle slow push-in (3–5% zoom) toward the subject, top-down, no rotation
 - **Main Motion:** the arrow pulsing
 
