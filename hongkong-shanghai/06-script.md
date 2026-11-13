@@ -1,6 +1,6 @@
 # How Did a Swamp Become the Richest City in Asia… Twice?
 
-**Target:** 1,925 words (±5%) · **Final:** 1,870 words · ~10:27 at 2.98 wps
+**Target:** 1,925 words (±5%) · **Final:** 1,885 words · ~10:32 at 2.98 wps
 
 In 1841, Britain's foreign secretary looked at the island his navy had just seized off the coast of China and dismissed it as a barren island with hardly a house upon it.
 
@@ -10,7 +10,7 @@ The rock became Hong Kong.
 
 The mud became Shanghai.
 
-Between them, these two places have taken turns as the richest, most important city in Asia for most of the last hundred years.
+Between them, these two places have taken turns as China's richest, most important city for most of the last hundred and fifty years, and at their peaks, among the richest cities in Asia.
 
 Neither had gold. Neither had oil. Neither had good farmland. One was a rock, the other was a swamp.
 
@@ -140,11 +140,11 @@ The Oriental Pearl Tower went up in 1994. The Jin Mao Tower in 1999. The Shangha
 
 On a former swamp, engineers had to drive foundations deep into the soft ground just to hold them up.
 
+In 2004, Shanghai even opened the world's first commercial high-speed maglev line, running to the airport at over four hundred kilometers an hour.
+
 Shanghai also solved its biggest weakness. The Yangtze mouth was too shallow for the largest container ships. So in 2005, it opened a deep-water port on islands out at sea, called Yangshan, linked to the mainland by a bridge over thirty kilometers long.
 
 Since 2010, Shanghai has been the busiest container port on Earth. Today it handles close to fifty million containers a year.
-
-In 2004, Shanghai even opened the world's first commercial high-speed maglev line, running to the airport at over four hundred kilometers an hour.
 
 Hong Kong, once number one, has fallen out of the top ten.
 
@@ -180,7 +180,7 @@ When China opened again, Hong Kong won first, because it was right next to the o
 
 And when Beijing chose to rebuild its own door at the mouth of its biggest river, Shanghai won again.
 
-The rule is simple: the richest city in Asia is usually whichever one happens to be China's open door.
+The rule is simple: the city that wins is whichever one happens to be China's open door.
 
 Not the one with the best land. The one with the best position, at the moment the door swings open.
 
@@ -194,7 +194,7 @@ History: both were shaped by war, empire and revolution, and both took in waves 
 
 Decisions: Hong Kong chose low taxes, free trade and foreign law. Shanghai was chosen by Beijing, twice.
 
-A rock and a swamp became two of the richest cities in Asia. Not because of what was in the ground. Because of where the ground was.
+A rock and a swamp became two of the richest cities in Asia, trading places as China opened and closed. Not because of what was in the ground. Because of where the ground was.
 
 There's another city that built itself on sand, with almost no oil left of its own. So why is Dubai still booming?
 
